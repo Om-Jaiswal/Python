@@ -9,6 +9,7 @@ position = input("Where do you want to put the treasure?\n")
 horizontal = int(position[0])
 vertical = int(position[1])
 
+# map[vertical-1][horizontal-1]="X"
 selected_row = map[vertical - 1]
 selected_row[horizontal - 1] = "X"
 
