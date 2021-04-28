@@ -14,7 +14,7 @@ lives = 6
 
 print(logo)
 
-print(f'Pssst, the solution is {chosen_word}.')
+# print(f'Pssst, the solution is {chosen_word}.')
 
 display = []
 for _ in range(word_length):
