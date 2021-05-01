@@ -1,5 +1,5 @@
 # Python
-This repository contains python codes, in two different programming styles, both styles contain a program and project folder.
+This repository contains python codes, in procedural and object-oriented programming styles.
 
 ## Procedural Programming
 
@@ -18,7 +18,7 @@ This repository contains python codes, in two different programming styles, both
    *  Average_Height
    *  Lowest_&_Highest_Score
    *  Sum_of_Even_Numbers
-   *  FizzBuzz
+   *  FizzBuzz (Pre-defined + User-defined)
    *  Paint_Area_Calculator
    *  Prime_Number_Checker
    *  Grading_Program
