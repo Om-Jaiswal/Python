@@ -40,10 +40,10 @@ This repository contains python codes, in procedural and object-oriented program
    *  Blackjack_Capstone_Project (Culminatng Project)
    *  Number_Guessing
    *  Higher_Lower
-   *  Coffee_Machine_Project (End of procedural style)
+   *  Coffee_Machine_Project (Procedural programming style)
 
 ### Object-Oriented Programming
 
-### Python_OPP_Programs
-
 ### Python_OPP_Projects
+   *  Coffee_Machine_Project_2.0 (Object-oriented programming style)
+   *  Quiz_Game
