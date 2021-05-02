@@ -44,6 +44,13 @@ This repository contains python codes, in procedural and object-oriented program
 
 ### Object-Oriented Programming
 
-### Python_OPP_Projects
+### Python_Programs_OPP
+   *  Dash_Square (Used turtle module)
+   *  Different_Shapes
+   *  Random_Walk
+   *  Spirograph
+
+### Python_Projects_OPP
    *  Coffee_Machine_Project_2.0 (Object-oriented programming style)
    *  Quiz_Game
+   *  Hirst_Painting (Used colorgram to extract colors from image)
