@@ -57,3 +57,4 @@ This repository contains python codes, in procedural and object-oriented program
    *  Hirst_Painting (Used colorgram to extract colors from image)
    *  Turtle_Race
    *  Snake_Game
+   *  Pong_Game
