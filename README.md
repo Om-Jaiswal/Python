@@ -49,8 +49,10 @@ This repository contains python codes, in procedural and object-oriented program
    *  Different_Shapes
    *  Random_Walk
    *  Spirograph
+   *  Etch-A-Sketch_App
 
 ### Python_Projects_OPP
    *  Coffee_Machine_Project_2.0 (Object-oriented programming style)
    *  Quiz_Game
    *  Hirst_Painting (Used colorgram to extract colors from image)
+   *  Turtle_Race
