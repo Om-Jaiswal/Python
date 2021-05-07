@@ -51,6 +51,7 @@ This repository contains python codes, in procedural and object-oriented program
    *  Spirograph
    *  Etch-A-Sketch_App
    *  Squirrel_Count (Working with file paths & pandas)
+   *  US_States_Game
 
 ### Python_Projects_OPP
    *  Coffee_Machine_Project_2.0 (Object-oriented programming style)
