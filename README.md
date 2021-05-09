@@ -54,6 +54,7 @@ This repository contains python codes, in procedural and object-oriented program
    *  US_States_Game
    *  Comprehension
    *  Tkinter_Concepts (Graphical User Interface(GUI))
+   *  Exception_Handling
 
 ### Python_Projects_OPP
    *  Coffee_Machine_Project_2.0 (Object-oriented programming style)
@@ -64,7 +65,7 @@ This repository contains python codes, in procedural and object-oriented program
    *  Pong_Game
    *  Turtle_Crossing (Capstone Project)
    *  MailMerge(File paths Concept)
-   *  NATO_Alphabet
+   *  NATO_Alphabet (Exception Handling)
    *  Mile_to_Kilo_Converter (Using tkinter)
    *  Pomodoro
    *  PasswordManager (Using JSON file)
