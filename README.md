@@ -52,6 +52,7 @@ This repository contains python codes, in procedural and object-oriented program
    *  Etch-A-Sketch_App
    *  Squirrel_Count (Working with file paths & pandas)
    *  US_States_Game
+   *  Comprehension
 
 ### Python_Projects_OPP
    *  Coffee_Machine_Project_2.0 (Object-oriented programming style)
@@ -62,3 +63,4 @@ This repository contains python codes, in procedural and object-oriented program
    *  Pong_Game
    *  Turtle_Crossing (Capstone Project)
    *  MailMerge(File paths Concept)
+   *  NATO_Alphabet
