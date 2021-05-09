@@ -66,3 +66,5 @@ This repository contains python codes, in procedural and object-oriented program
    *  MailMerge(File paths Concept)
    *  NATO_Alphabet
    *  Mile_to_Kilo_Converter (Using tkinter)
+   *  Pomodoro
+   *  PasswordManager (Using JSON file)
