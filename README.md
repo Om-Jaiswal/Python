@@ -55,6 +55,8 @@ This repository contains python codes, in procedural and object-oriented program
    *  Comprehension
    *  Tkinter_Concepts (Graphical User Interface(GUI))
    *  Exception_Handling
+   *  Email (SMTP & datetime module)
+   *  Motivational_Quotes_on_Monday
 
 ### Python_Projects_OPP
    *  Coffee_Machine_Project_2.0 (Object-oriented programming style)
