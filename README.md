@@ -57,6 +57,7 @@ This repository contains python codes, in procedural and object-oriented program
    *  Exception_Handling
    *  Email (SMTP & datetime module)
    *  Motivational_Quotes_on_Monday
+   *  Kanye (API)
 
 ### Python_Projects_OPP
    *  Coffee_Machine_Project_2.0 (Object-oriented programming style)
@@ -72,3 +73,5 @@ This repository contains python codes, in procedural and object-oriented program
    *  Pomodoro
    *  PasswordManager (Using JSON file)
    *  FlashCard
+   *  BirthdayWisher (SMTP)
+   *  ISS (SMTP + API)
