@@ -75,3 +75,6 @@ This repository contains python codes, in procedural and object-oriented program
    *  FlashCard
    *  BirthdayWisher (SMTP)
    *  ISS (SMTP + API)
+   *  Quizzler
+   *  Rain_Alert (Environment Variables)
+   *  Stock_News
